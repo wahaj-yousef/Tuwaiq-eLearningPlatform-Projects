@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "60e2ed517ba3c47640c10fcc"
+  },
+  "UserId": {
+    "$oid": "60e2e64eb477a17dd46e3e6e"
+  },
+  "Followers": [
+    {
+      "$oid": "60e2e5f5b477a17dd46e3e6c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e2ed517ba3c47640c10fcd"
+  },
+  "UserId": {
+    "$oid": "60e2e5f5b477a17dd46e3e6c"
+  },
+  "Followers": [
+    {
+      "$oid": "60e2ed517ba3c47640c10fcc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60e2ed517ba3c47640c10fce"
+  },
+  "UserId": {
+    "$oid": "60e2e64eb477a17dd46e3e6f"
+  },
+  "Followers": []
+},{
+  "_id": {
+    "$oid": "60e2ed517ba3c47640c10fcf"
+  },
+  "UserId": {
+    "$oid": "60e2e5f5b477a17dd46e3e6d"
+  },
+  "Followers": [
+    {
+      "$oid": "60e2e64eb477a17dd46e3e6e"
+    },
+    {
+      "$oid": "60e2e64eb477a17dd46e3e6f"
+    }
+  ]
+}]
